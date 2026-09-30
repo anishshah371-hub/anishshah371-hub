@@ -16,22 +16,22 @@ I'm a BCA Data Science student at the University of Allahabad, currently buildin
 - Tools: Git, GitHub, Jupyter Notebook, VS Code
 
 🚀 Projects
+### 🌸 Floriography — Flower Symbolism Search & Discovery Platform
 
-Floriography — Flower Symbolism Search & Discovery Platform
-🚧 In Progress
-React + FastAPI + SQLite + Pandas + TF-IDF
+**Status:** 🚧 In Progress  
+**Tech:** React • FastAPI • SQLite • Pandas • TF-IDF
 
 A search and discovery application for documented flower symbolism, including flower search, meaning-based retrieval, category exploration, and dataset analytics.
 
-Marvel Movies & Shows — Statistical Analysis
-🚧 In Progress
-Python + Pandas + NumPy + Matplotlib + Statistics
+###. Marvel Movies & Shows — Statistical Analysis
+**Status:** 🚧 In Progress
+**Tech:** Python • Pandas • NumPy • Matplotlib • Statistics
 
 A data-analysis project focused on building and analyzing a structured Marvel movies and shows dataset through data cleaning, EDA, descriptive statistics, and visualization.
 
-Student Performance Predictor
-✅ Completed — Group Project
-Python + Pandas + Scikit-learn
+###. Student Performance Predictor
+**Status:**✅ Completed — Group Project
+**Tech:** Python • Pandas • Scikit-learn
 
 A machine-learning project involving preprocessing, exploratory analysis, model training, and evaluation for student performance prediction.
 
@@ -48,3 +48,4 @@ A machine-learning project involving preprocessing, exploratory analysis, model 
 
 - LinkedIn: Anish Shah
 - Email: anishshah371@gmail.com
+- GitHub: anishshah371-hub
